@@ -1,7 +1,7 @@
 const content = {
-  tagline: 'Kick off your project using',
-  title: 'Gatsby Starter.',
-  subtitle: 'Featuring Redux, Material UI, Contentful & other stuff!',
+  tagline: '',
+  title: '海外华人科技与商业协会',
+  subtitle: '',
 };
 
 export default content;

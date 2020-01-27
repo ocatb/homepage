@@ -4,8 +4,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter`,
-    description: `Gatsby Starter`,
+    title: `Overseas Chinese Association of Technology and Business`,
+    description: `海外华人科技与商业协会`,
     author: `Polychronis Papadakis`,
   },
   plugins: [

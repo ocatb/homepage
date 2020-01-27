@@ -1,8 +1,8 @@
 import { FaGithub } from 'react-icons/fa';
 
 const content = {
-  title: 'About.',
-  subtitle: 'Find out more on Github',
+  title: '关注海外华人.',
+  subtitle: '聚焦科技进步与商业发展',
   links: [
     {
       to: 'https://github.com/chronisp',

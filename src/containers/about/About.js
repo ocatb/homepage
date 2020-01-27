@@ -18,7 +18,7 @@ const About = () => (
     <Typography variant='h3' color='textPrimary'>
       {subtitle}
     </Typography>
-    <LinkList links={links} />
+    {/* <LinkList links={links} /> */}
   </>
 );
 
